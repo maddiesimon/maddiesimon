@@ -1,4 +1,4 @@
-# Home Repository
+# About Me
 
 Houses my automation projects
 
